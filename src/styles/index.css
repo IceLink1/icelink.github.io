@@ -1,0 +1,17 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.center{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+nav,footer{
+    height: 10vh;
+    border: 2px solid black;
+}
+main{
+    height: 80vh;
+}
